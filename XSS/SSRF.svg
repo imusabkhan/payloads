@@ -9,10 +9,10 @@
        xmlns:xlink="http://www.w3.org/1999/xlink"
        xml:space="preserve">
     <!-- Script linked from the outside-->
-    <script xlink:href="http://sfbwsxqpqj8mb12yfkvjhmw9e0kr8rwg.oastify.com" />
     <script>
       //<![CDATA[
         alert("ble");
       ]]>
     </script>
+    <h1>test</h1>
   </svg>
